@@ -8,5 +8,7 @@ namespace WindowsFormsApplication1
 {
     class NewClass_1
     {
+        string myStrinf = String.Empty;
+        int intVar = 0;
     }
 }
